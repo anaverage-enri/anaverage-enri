@@ -2,7 +2,7 @@
 
 - <em>A bachelor student at <a href="https://hcmuni.fpt.edu.vn/">FPT University</a>, majoring in Software Engineering.</br>
   </em>
-- <em>Currently a Front-end developer at <a href="https://recruit.raksul.com/">Raksul</a>.
+- <em>Currently working as a Front-end developer at <a href="https://recruit.raksul.com/">Raksul</a>.
   </em>
 
 ```javascript
