@@ -7,11 +7,11 @@
 
 ```javascript
 const profile = {
-  name: "Enri",
-  pronouns: "he" | "him",
+  name: 'Enri',
+  pronouns: 'he' | 'him',
   age: 21,
-  hobbies: ["music", "swimming", "instruments"],
-};
+  hobbies: ['music', 'swimming', 'instruments']
+}
 ```
 
 ## Github Stats
