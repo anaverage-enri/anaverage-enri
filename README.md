@@ -15,7 +15,7 @@ const profile = {
 ```
 
 ## Github Stats
-<details>
+<!-- <details>
 <summary>Stats</summary>
 <br>
 ![Enri's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
@@ -24,6 +24,12 @@ const profile = {
 
 <em>NOTE: Top languages does not indicate my skill level or something like that, it's just a github metric of which languages I have the most code on personal github repositories, a feature of <a href="https://github.com/anaverage-enri/github-readme-stats">github-readme-stats</a></br></em>
 </br>
+</details> -->
+<details>
+  <summary>Show GitHub Stats</summary>
+  <img align="left" alt="Enri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img align="right" alt="Enri's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaverage-enri&theme=radical&hide_border=true&layout=compact&langs_count=10" />
+  <img align="right" alt="Enri's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=anaverage-enri&theme=radical&hide_border=true)](https://git.io/streak-stats" />
 </details>
 
 
