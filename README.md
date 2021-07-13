@@ -27,9 +27,9 @@ const profile = {
 </details> -->
 <details>
   <summary>Show GitHub Stats</summary>
-  <img align="left" alt="Enri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-  <img align="right" alt="Enri's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaverage-enri&theme=radical&hide_border=true&layout=compact&langs_count=10" />
-  <img alt="Enri's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=anaverage-enri&theme=radical&hide_border=true)](https://git.io/streak-stats" />
+  <img alt="Enri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img alt="Enri's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaverage-enri&theme=radical&hide_border=true&layout=compact&langs_count=10" />
+  <img alt="Enri's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=anaverage-enri&theme=radical&hide_border=false)](https://git.io/streak-stats" />
 </details>
 
 
