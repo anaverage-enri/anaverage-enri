@@ -16,7 +16,7 @@ const profile = {
 
 ## Github Stats
 <details>
-<summary>## Github Stats</summary>
+<summary>Stats</summary>
 <br>
 ![Enri's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)
 ![Enri's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaverage-enri&theme=radical&hide_border=true&layout=compact&langs_count=10)
