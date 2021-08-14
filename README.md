@@ -39,7 +39,7 @@ const profile = {
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/anaverage.enri/)](https://www.instagram.com/anaverage.enri/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaverageenri/)](https://www.linkedin.com/in/anaverageenri/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10887502/enri?tab=profile)](https://stackoverflow.com/users/10887502/enri?tab=profile)
-[![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/anaverage.enri/)](https://www.facebook.com/ibenrique2510/)
+[![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/anaverage.enri/)](https://www.facebook.com/anaverage.enri/)
 [![Email](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:ibenrique2510@gmail.com)](mailto:ibenrique2510@gmail.com)
 
 <!-- <a href="https://github.com/iCharlesZ">
