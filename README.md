@@ -1,20 +1,22 @@
 # Hi there, I'm Enri!
 
-- <em>A student at <a href="https://hcmuni.fpt.edu.vn/">FPT University</a>, majoring in Software Engineering.</br>
+- <em>Bachelor of Engineering - Computer Software Engineering.</br>
   </em>
-- <em>Currently working as a Front-end developer at <a href="https://recruit.raksul.com/">Raksul</a>.
+- <em>Currently working as a Software developer at <a href="https://recruit.raksul.com/">Raksul</a>.
   </em>
 
 ```javascript
 const profile = {
   name: 'Enri',
   pronouns: 'he' | 'him',
+  status: STATE.FOCUSING,
   age: 21,
   hobbies: ['music', 'swimming', 'instruments']
 }
 ```
 
 ## Github Stats
+
 <!-- <details>
 <summary>Stats</summary>
 <br>
@@ -27,12 +29,10 @@ const profile = {
 </details> -->
 <details>
   <summary>Show GitHub Stats</summary>
-  <img alt="Enri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-  <img alt="Enri's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaverage-enri&theme=radical&hide_border=true&layout=compact&langs_count=10" />
+  <!-- <img alt="Enri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img alt="Enri's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaverage-enri&theme=radical&hide_border=true&layout=compact&langs_count=10" /> -->
   <img alt="Enri's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=anaverage-enri&theme=radical&hide_border=true)](https://git.io/streak-stats" />
 </details>
-
-
 
 ### Get in touch with me
 
