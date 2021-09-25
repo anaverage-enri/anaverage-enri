@@ -2,7 +2,7 @@
 
 - <em>Bachelor of Engineering - Computer Software Engineering.</br>
   </em>
-- <em>Currently working as a Software developer at <a href="https://recruit.raksul.com/">Raksul</a>.
+- <em>Currently working as a Software developer at <a href="https://recruit.raksul.com/" target="_blank">Raksul</a>.
   </em>
 
 ```javascript
