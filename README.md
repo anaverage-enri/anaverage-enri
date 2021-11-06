@@ -7,8 +7,8 @@
 
 ```javascript
 const profile = {
-  fullName: 'Âu Đức Tuấn',
-  nickName: 'Enri',
+  name: 'Âu Đức Tuấn',
+  alias: 'Enri',
   pronouns: 'he' | 'him',
   status: STATE.FOCUSING,
   age: 21,
