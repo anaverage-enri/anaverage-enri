@@ -11,7 +11,7 @@ const profile = {
   alias: 'Enri',
   pronouns: 'he' | 'him',
   status: STATE.FOCUSING,
-  age: 21,
+  age: 22,
   hobbies: ['music', 'swimming', 'instruments']
 }
 ```
@@ -32,7 +32,10 @@ const profile = {
   <summary>Show GitHub Stats</summary>
   <!-- <img alt="Enri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
   <img alt="Enri's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaverage-enri&theme=radical&hide_border=true&layout=compact&langs_count=10" /> -->
-  <img alt="Enri's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=anaverage-enri&theme=radical&hide_border=true)](https://git.io/streak-stats" />
+  <img alt="Enri's GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=anaverage-enri&theme=radical&hide_border=true)](https://git.io/streak-stats"/>
+  <a href="https://app.daily.dev/anaverage_enri">
+    <img src="https://api.daily.dev/devcards/d55378a0614543438ea4016d6126fd54.png?r=az3" width="200" alt="Enri's Dev Card"/>
+  </a>
 </details>
 
 ### Get in touch with me
