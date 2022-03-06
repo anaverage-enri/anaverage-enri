@@ -18,11 +18,9 @@ const profile = {
 
 <details>
   <summary>GitHub Stats</summary>
-   <div style="display: flex; justify-content: space-between">
-     <img alt="Enri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-     <img alt="Enri's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaverage-enri&&theme=radical&hide_border=true" />
-  </div>
-
+  <img alt="Enri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anaverage-enri&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="400" />
+  <img alt="Enri's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaverage-enri&&theme=radical&hide_border=true" width="400" />
+  <br/>
   <i>
     Note: I'm noticing those stats above are not reflecting true numbers at all 🥺. <br/> 
     Third-party problems but yea they can stay here until I decide to make my own cool ass plugins like this.
