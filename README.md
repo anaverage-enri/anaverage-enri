@@ -1,7 +1,7 @@
 # Hi there, I'm Enri! 👋🏻
 
 - <strong>Bachelor of Engineering - Computer Software Engineering.</strong>
-- <strong>Currently working as a system engineer at <a href="https://recruit.raksul.com/" target="_blank">Raksul</a>.</strong>
+- <strong>Currently working as system engineer at <a href="https://recruit.raksul.com/" target="_blank">Raksul</a>.</strong>
 
 ```javascript
 const profile = {
