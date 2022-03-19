@@ -22,8 +22,8 @@ const profile = {
   <img alt="Enri's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anaverage-enri&&theme=radical&hide_border=true" width="400" />
   <br/>
   <i>
-    Note: I'm noticing those stats above are not reflecting true numbers at all 🥺. <br/> 
-    Third-party problems but yea they can stay here until I decide to make my own cool ass plugins like this.
+    Note: I'm noticing those stats above are not reflecting true numbers at all 🥺 <br/> 
+    Third-party problems but yea they can stay here until I decide to make my own cool ass plugins like this
   </i>
 
 </details>
