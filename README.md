@@ -10,7 +10,7 @@ const profile = {
   pronouns: 'he' | 'him',
   status: STATE.FOCUSING,
   age: 22,
-  hobbies: ['watches', 'fragrances', 'music', 'boxing', 'basketball', 'instruments']
+  hobbies: ['wrist watches', 'fragrances', 'music', 'boxing', 'basketball', 'instruments']
 }
 ```
 
