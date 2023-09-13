@@ -13,7 +13,7 @@ const profile = {
 }
 ```
 
-# Some Stats 💻
+<!-- # Some Stats 💻
 
 <details>
   <summary>GitHub Stats</summary>
@@ -41,7 +41,7 @@ const profile = {
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10887502/enri?tab=profile)
 [![Facebook](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/anaverage.enri/)
 [![Email](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:ibenrique2510@gmail.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-222222?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/215hy342ibh6oymh5zui6yu2i?si=0aa8291614b54131)
+[![Spotify](https://img.shields.io/badge/-Spotify-222222?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/215hy342ibh6oymh5zui6yu2i?si=0aa8291614b54131) -->
 
 <!-- <a href="https://github.com/iCharlesZ">
   <img src="https://img.shields.io/github/followers/anaverage-enri">
