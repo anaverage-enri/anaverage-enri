@@ -9,7 +9,7 @@ const profile = {
   alias: 'Enri',
   status: STATE.FOCUSING,
   age: 22,
-  hobbies: ['wrist watches', 'fragrances', 'boxing', 'guitar']
+  hobbies: ['wrist watches', 'fragrances', 'badminton']
 }
 ```
 
