@@ -34,7 +34,7 @@ const profile = {
   </a>
 </details>
 
-# Get in touch with me 🔎 
+# Get in touch with me 🔎
 
 [![Instagram](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anaverage.enri/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaverageenri/)
