@@ -8,7 +8,7 @@ const profile = {
   name: 'Âu Đức Tuấn',
   alias: 'Enri',
   status: STATE.FOCUSING,
-  age: 22,
-  hobbies: ['wrist watches', 'fragrances', 'badminton']
+  age: 26,
+  hobbies: ['triathlon', 'badminton', 'wrist watches', 'fragrances']
 }
 ```
